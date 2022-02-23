@@ -8,5 +8,10 @@ public class Main {
         czlowiek.napisz();
         pies.napisz();
 
+
+        Czlowiek JanKowalski = new Czlowiek(33,2,"czlowiek", "Jan", "Kowalski");
+
+        JanKowalski.przedstawsie();
+
     }
 }
