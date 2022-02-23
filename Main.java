@@ -13,5 +13,10 @@ public class Main {
 
         JanKowalski.przedstawsie();
 
+        System.out.println("GitHub :0 ");
+
+        Pracownik brukarz = new Pracownik("brukarz");
+
+
     }
 }
