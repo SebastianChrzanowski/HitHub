@@ -13,5 +13,14 @@ public class Main {
 
         JanKowalski.przedstawsie();
 
+        System.out.println("GitHub :0 ");
+
+        Pracownik brukarz = new Pracownik("brukarz");
+        Pracownik lekarz = new Pracownik("lekarz");
+
+        Pracownik konstruktor = new Pracownik("konstruktor CAD");
+
+
+
     }
 }
