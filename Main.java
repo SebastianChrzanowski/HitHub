@@ -19,7 +19,9 @@ public class Main {
         Pracownik lekarz = new Pracownik("lekarz");
 
         Pracownik konstruktor = new Pracownik("konstruktor CAD");
+        Pracownik programista = new Pracownik("IT");
 
+        //sss
 
 
     }
